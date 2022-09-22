@@ -14,8 +14,8 @@
 </ul>
 <br><br>
 
-<h1>🪄 Como utilizar</h1>
-<p>Baixe e execute o arquivo <strong>index.html</strong> localizado na raíz do projeto.</p>
+<h1>📃 Como utilizar</h1>
+<p>Clique <a target="_blank" href="https://felipeteixeirams.github.io/nlw-esports-explorer/">aqui</a> para visualizar.</p>
 <br><br>
 
 <h1>✨ Layout</h1>
