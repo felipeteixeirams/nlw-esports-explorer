@@ -15,7 +15,7 @@
 <br><br>
 
 <h1>📃 Como utilizar</h1>
-<p>Clique <a target="_blank" href="https://felipeteixeirams.github.io/nlw-esports-explorer/">aqui</a> para visualizar.</p>
+<p>Clique <a target="_self" href="https://felipeteixeirams.github.io/nlw-esports-explorer/">aqui</a> para visualizar.</p>
 <br><br>
 
 <h1>✨ Layout</h1>
